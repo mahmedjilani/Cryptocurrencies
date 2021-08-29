@@ -11,7 +11,7 @@ We use the following methods for the analysis:
 <br><br>
 
 ## Resources
-- Data Source: [crypto_data.csv](https://github.com/cedoula/Cryptocurrencies/blob/main/Resources/crypto_data.csv), [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist)
+- Data Source: [crypto_data.csv](https://github.com/mahmedjilani/Cryptocurrencies/blob/main/Resources/crypto_data.csv), [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist)
 - Software: Python 3.7.7, Anaconda Navigator 1.9.12, Conda 4.8.4, Jupyter Notebook 6.0.3
 <br><br>
 
